@@ -1,0 +1,14 @@
+<include>
+  <gateway name="delta">
+    <param name="username" value="not-used"/>
+    <param name="password" value="not-used"/>
+    <param name="realm" value="192.168.13.2"/>
+    <!-- <param name="from-domain" value="172.16.22.2"/> -->
+    <param name="proxy" value="192.168.13.2"/>
+    <param name="expire-seconds" value="800"/>
+    <param name="caller-id-in-from" value="true"/>
+    <param name="register" value="false"/>
+    <param name="register-transport" value="udp"/>
+    <param name="context" value="public"/>
+  </gateway>
+</include>
