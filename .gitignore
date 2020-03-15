@@ -1,2 +1,2 @@
-sip_profiles/delta/*
-!sip_profiles/delta/trt.xml
+testin/*
+!testin/m1.xml
